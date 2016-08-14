@@ -14,7 +14,7 @@ library(tidyr)
 Load data
 
 ```r
-div.data <- read.csv("~/Desktop/div.data.csv")
+div.data <- read.csv("~/div.data.csv")
 ```
 
 Calculate I for each site, and plot
